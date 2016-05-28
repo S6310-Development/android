@@ -1,1 +1,0 @@
-# Device Specific Local Manifest
