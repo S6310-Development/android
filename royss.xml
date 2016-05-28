@@ -31,6 +31,8 @@
 
   <remove-project name="CyanogenMod/android_packages_apps_Browser" />
 
+  <remove-project name="CyanogenMod/android_packages_apps_Stk" />
+
   <remove-project name="CyanogenMod/android_system_core" />
 
   <project path="build" name="S6310-Development/android_build" groups="pdk" >
@@ -76,6 +78,8 @@
   <project path="packages/apps/Browser" name="S6310-Development/android_packages_apps_Browser" />
 
   <project path="packages/apps/FM2" name="S6310-Development/android_packages_apps_FM2" />
+
+  <project path="packages/apps/Stk" name="S6310-Development/android_packages_apps_Stk" />
 
   <project path="system/core" name="S6310-Development/android_system_core" groups="pdk" />
 
