@@ -53,6 +53,7 @@
   <project path="device/samsung/royssnfc" name="S6310-Development/android_device_samsung_royssnfc" groups="device" />
   <project path="device/samsung/msm7x27a-common" name="S6310-Development/android_device_samsung_msm7x27a-common" groups="device" >
     <copyfile src="build.sh" dest="build-script.sh" />
+    <copyfile src="build-hudson.sh" dest="build-hudson.sh" />
   </project>
   <project path="vendor/samsung" name="S6310-Development/android_vendor_samsung" groups="device" />
   <project path="kernel/samsung/msm7x27a" name="S6310-Development/android_kernel_samsung_msm7x27a" groups="device" />
